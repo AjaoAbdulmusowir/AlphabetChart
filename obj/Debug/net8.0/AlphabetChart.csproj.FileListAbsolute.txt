@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\AlphabetChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\AlphabetChart.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\AlphabetChart.AssemblyInfo.cs
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\AlphabetChart.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\bin\Debug\net8.0\AlphabetChart.exe
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\bin\Debug\net8.0\AlphabetChart.deps.json
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\bin\Debug\net8.0\AlphabetChart.runtimeconfig.json
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\bin\Debug\net8.0\AlphabetChart.dll
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\bin\Debug\net8.0\AlphabetChart.pdb
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\AlphabetChart.dll
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\refint\AlphabetChart.dll
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\AlphabetChart.pdb
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\AlphabetChart.genruntimeconfig.cache
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\ref\AlphabetChart.dll

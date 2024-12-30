@@ -12,3 +12,4 @@ C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\refint\A
 C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\AlphabetChart.pdb
 C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\AlphabetChart.genruntimeconfig.cache
 C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\ref\AlphabetChart.dll
+C:\Users\USER\Desktop\Project\Assignment\AlphabetChart\obj\Debug\net8.0\AlphabetChart.sourcelink.json
